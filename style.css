@@ -1,5 +1,5 @@
 body {
-background-color:8DE4FF; 
+background-color:#A599B5; 
 }
 ul{
   list-style-type: none; 
@@ -16,19 +16,19 @@ li{
   float: left;
 }
 li a{
+  font-size: 23px;
   display: block;
   color: white; 
   text-decoration: none; 
   padding: 15px 50px;
   border-style: none; 
-  font-family: cursive, "Lucida Handwriting"
+  font-family: "Courier New"; 
 }
 li a:hover{
   background-color: antiquewhite; 
   color: black;
 }
-center {
-  font-size: 78px;
+h1 {
+  font-family: "Nunito";
   color: white; 
-  font-family: "Arial";
 }
