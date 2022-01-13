@@ -30,7 +30,8 @@ li a:hover{
 }
 h1 {
   font-family: "Nunito";
-  color: white; 
+  color: white;
+  font-size: 30px;
 }
 center {
   font-size: 70px; 
