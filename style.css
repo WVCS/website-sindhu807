@@ -27,3 +27,8 @@ li a:hover{
   background-color: antiquewhite; 
   color: black;
 }
+center {
+  font-size: 78px;
+  color: white; 
+  font-family: "Arial";
+}
